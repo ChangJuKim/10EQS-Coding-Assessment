@@ -1,6 +1,4 @@
-# Chang Ju Kim
-
-# 10EQS Technical Evaluation
+# Chang Ju Kim: 10EQS Technical Evaluation
 
 ## Instructions
 
@@ -34,6 +32,6 @@ I started with reading the given file. Then I ran out of time, so I decided to m
 - Attempting to fix my build: 6 min
 - Writing manual report: 7 min
 - Github setup: 6 min
-  ----------- Went over the 1 hour mark ----------
+- ----------- Went over the 1 hour mark ----------
 - Finishing Github setup: 4 min
 - Finishing README: 7 min
