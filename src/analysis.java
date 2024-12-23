@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class analysis {
 
-    private static final String PRODUCTS_FILE = "data/products.csv";
+    private static final String PRODUCTS_FILE = "../data/products.csv";
 
     public static void main(String[] args) {
         String[][] data = null;
