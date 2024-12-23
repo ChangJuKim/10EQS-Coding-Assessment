@@ -7,4 +7,4 @@ For instance:
 4. I would suggest putting a 0 for the stock of "Mint Tea (25 bags)" instead of "out of stock".
 5. The date is consistent, particularly with "Hot Chocolate Mix (1lb)". It is in a MM/DD/YYYY format instead of a YYYY-MM-DD format.
 
-These are my findings of the sample data. I would like to highlight that I found these discrepancies by looking at the data, not by coding it due to lack of time.
+These are my findings of the sample data. I would like to highlight that due to lack of time, I found these discrepancies by looking at the data.
